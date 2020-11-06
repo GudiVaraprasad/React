@@ -1,5 +1,4 @@
-# Have a demo :
-## https://gracious-nobel-ac6730.netlify.app/
+![Try a demo here](https://gracious-nobel-ac6730.netlify.app/)
 
 ![](./todo.jpg)
 
